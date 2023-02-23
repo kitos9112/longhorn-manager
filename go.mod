@@ -54,9 +54,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli v1.22.2
-	golang.org/x/mod v0.5.1
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/net v0.0.0-20211209124913-491a49abca63
-	golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.40.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f
@@ -117,11 +117,11 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tinylib/msgp v1.1.1-0.20190612170807-0573788bc2a8 // indirect
 	github.com/willf/bitset v1.1.10 // indirect
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20210831024726-fe130286e0e2 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
